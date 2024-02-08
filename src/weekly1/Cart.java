@@ -1,3 +1,5 @@
+package weekly1;
+
 public class Cart {
     Product [] products;
 

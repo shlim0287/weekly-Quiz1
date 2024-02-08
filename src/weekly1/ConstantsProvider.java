@@ -1,3 +1,5 @@
+package weekly1;
+
 import java.math.BigDecimal;
 
 public class ConstantsProvider {

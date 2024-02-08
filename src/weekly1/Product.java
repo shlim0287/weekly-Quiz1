@@ -1,4 +1,4 @@
-import java.math.BigDecimal;
+package weekly1;
 
 public class Product implements Promotion{
     private String name;

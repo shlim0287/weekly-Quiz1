@@ -1,3 +1,5 @@
+package weekly1;
+
 public class Calculator {
     public static int getDeliveryCharge(double weight, int price) {
         // 무게 : 3키로 미만 1천, 3~10키로 미만 5천, 10키로 이상 1만
